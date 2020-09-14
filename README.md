@@ -1,6 +1,9 @@
 # ngDragDrawer
 An ugly drawer using AngularJS
 
+Demo
+![image](https://github.com/sbhkin/ngDragDrawer/raw/master/ngDragDrawer.gif)
+
 ## Usage
 JS
 ```
